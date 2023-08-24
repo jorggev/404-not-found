@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://jorggev.github.io/404-not-found/}">
+    <a href="https://jorggev.github.io/404-not-found/">
       Solution
     </a>
     <span> | </span>
